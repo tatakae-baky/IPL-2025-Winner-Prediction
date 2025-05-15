@@ -1,0 +1,75 @@
+Season,City,Date,Match_Type,Player_of_match,Venue,team1,team2,toss_winner,toss_decision,winner ,result,result_margin,target_runs,target_overs,super_over
+2025,Kolkata,3/22/2025,League,Krunal Pandya,Eden Gardens, Kolkata Knight Riders, Royal Challengers Bengaluru, Royal Challengers Bengaluru,field, Royal Challengers Bengaluru,wickets,7,175,20,N
+2025,Hyderabad,3/23/2025,League,Ishan Kishan,Rajiv Gandhi International Stadium, Sunrisers Hyderabad, Rajasthan Royals, Rajasthan Royals,field, Sunrisers Hyderabad,runs,44,287,20,N
+2025,Chennai,3/23/2025,League,Noor Ahmad,MA Chidambaram Stadium, Chennai Super Kings, Mumbai Indians, Chennai Super Kings,field, Chennai Super Kings,wickets,4,156,20,N
+2025,Visakhapatnam,3/24/2025,League,Ashutosh Sharma,Dr YS Rajasekhara Reddy ACA-VDCA Cricket Stadium, Delhi Capitals, Lucknow Super Giants,Delhi Capitals,field, Delhi Capitals,wickets,1,210,20,N
+2025,Ahmedabad,3/25/2025,League,Shreyas Iyer,Narendra Modi Stadium, Gujarat Titans, Punjab Kings, Gujarat Titans,field, Punjab Kings,runs,11,244,20,N
+2025,Guwahati,3/26/2025,League,Quinton de Kock,ACA Stadium, Rajasthan Royals, Kolkata Knight Riders, Kolkata Knight Riders,field, Kolkata Knight Riders,wickets,8,152,20,N
+2025,Hyderabad,3/27/2025,League,Shardul Thakur,Rajiv Gandhi International Stadium, Sunrisers Hyderabad, Lucknow Super Giants,Lucknow Super Giants,field, Lucknow Super Giants,wickets,5,191,20,N
+2025,Chennai,3/28/2025,League,Rajat Patidar,MA Chidambaram Stadium, Chennai Super Kings, Royal Challengers Bengaluru,Chennai Super Kings,field, Royal Challengers Bengaluru,runs,50,197,20,N
+2025,Ahmedabad,3/29/2025,League,Prasidh Krishna,Narendra Modi Stadium, Gujarat Titans, Mumbai Indians, Mumbai Indians,field, Gujarat Titans,runs,36,197,20,N
+2025,Visakhapatnam,3/30/2025,League,Mitchell Starc,Dr YS Rajasekhara Reddy ACA-VDCA Cricket Stadium, Delhi Capitals, Sunrisers Hyderabad, Sunrisers Hyderabad,bat, Delhi Capitals,wickets,7,164,20,N
+2025,Guwahati,3/30/2025,League,Nitish Rana,ACA Stadium, Rajasthan Royals, Chennai Super Kings, Chennai Super Kings,field, Rajasthan Royals,runs,6,183,20,N
+2025,Mumbai,3/31/2025,League,Ashwani Kumar,Wankhede Stadium, Mumbai Indians, Kolkata Knight Riders,Mumbai Indians,field,Mumbai,wickets,8,117,20,N
+2025,Lucknow,4/1/2025,League,Prabhsimran Singh,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick, Lucknow Super Giants, Punjab Kings, Punjab Kings,field, Punjab Kings,wickets,8,172,20,N
+2025,Bengaluru,4/2/2025,League,Mohammad Siraj,M Chinnaswamy Stadium, Royal Challengers Bengaluru, Gujarat Titans,Gujarat Titans,field,Gujarat Titans,wickets,8,170,20,N
+2025,Kolkata,4/3/2025,League,Vaibhav Arora,Eden Gardens, Kolkata Knight Riders, Sunrisers Hyderabad, Sunrisers Hyderabad,field, Kolkata Knight Riders,runs,80,201,20,N
+2025,Lucknow,4/4/2025,League,Digvesh Singh Rathi,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick, Lucknow Super Giants, Mumbai Indians, Mumbai Indians,field, Lucknow Super Giants,runs,12,204,20,N
+2025,Chennai,4/5/2025,League,KL Rahul,MA Chidambaram Stadium, Chennai Super Kings, Delhi Capitals, Delhi Capitals,field, Delhi Capitals,runs,25,184,20,N
+2025,Chandigarh,4/5/2025,League,Jofra Archer,New PCA Stadium, Punjab Kings, Rajasthan Royals, Punjab Kings,field, Rajasthan Royals,runs,50,206,20,N
+2025,Hyderabad,4/6/2025,League,Mohammed Siraj,Rajiv Gandhi International Stadium, Sunrisers Hyderabad, Gujarat Titans, Gujarat Titans,field, Gujarat Titans,wickets,7,153,20,N
+2025,Mumbai,4/7/2025,League,,Wankhede Stadium, Mumbai Indians, Royal Challengers Bengaluru,Unknown,,Unknown,,,,,
+2025,Kolkata,4/8/2025,League,,Eden Gardens, Kolkata Knight Riders, Lucknow Super Giants,Unknown,,Unknown,,,,,
+2025,Chandigarh,4/8/2025,League,,New PCA Stadium, Punjab Kings, Chennai Super Kings,Unknown,,Unknown,,,,,
+2025,Ahmedabad,4/9/2025,League,,Narendra Modi Stadium, Gujarat Titans, Rajasthan Royals,Unknown,,Unknown,,,,,
+2025,Bengaluru,4/10/2025,League,,M Chinnaswamy Stadium, Royal Challengers Bengaluru, Delhi Capitals,Unknown,,Unknown,,,,,
+2025,Chennai,4/11/2025,League,,MA Chidambaram Stadium, Chennai Super Kings, Kolkata Knight Riders,Unknown,,Unknown,,,,,
+2025,Lucknow,4/12/2025,League,,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick, Lucknow Super Giants, Gujarat Titans,Unknown,,Unknown,,,,,
+2025,Hyderabad,4/12/2025,League,,Rajiv Gandhi International Stadium, Sunrisers Hyderabad, Punjab Kings,Unknown,,Unknown,,,,,
+2025,Jaipur,4/13/2025,League,,Sawai Mansingh Stadium, Rajasthan Royals, Royal Challengers Bengaluru,Unknown,,Unknown,,,,,
+2025,Delhi,4/13/2025,League,,Arun Jaitley Stadium, Delhi Capitals, Mumbai Indians,Unknown,,Unknown,,,,,
+2025,Lucknow,4/14/2025,League,,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick, Lucknow Super Giants, Chennai Super Kings,Unknown,,Unknown,,,,,
+2025,Chandigarh,4/15/2025,League,,New PCA Stadium, Punjab Kings, Kolkata Knight Riders,Unknown,,Unknown,,,,,
+2025,Delhi,4/16/2025,League,,Arun Jaitley Stadium, Delhi Capitals, Rajasthan Royals,Unknown,,Unknown,,,,,
+2025,Mumbai,4/17/2025,League,,Wankhede Stadium, Mumbai Indians, Sunrisers Hyderabad,Unknown,,Unknown,,,,,
+2025,Bengaluru,4/18/2025,League,,M Chinnaswamy Stadium, Royal Challengers Bengaluru, Punjab Kings,Unknown,,Unknown,,,,,
+2025,Ahmedabad,4/19/2025,League,,Narendra Modi Stadium, Gujarat Titans, Delhi Capitals,Unknown,,Unknown,,,,,
+2025,Jaipur,4/19/2025,League,,Sawai Mansingh Stadium, Rajasthan Royals, Lucknow Super Giants,Unknown,,Unknown,,,,,
+2025,Chandigarh,4/20/2025,League,,New PCA Stadium, Punjab Kings, Royal Challengers Bengaluru,Unknown,,Unknown,,,,,
+2025,Mumbai,4/20/2025,League,,Wankhede Stadium, Mumbai Indians, Chennai Super Kings,Unknown,,Unknown,,,,,
+2025,Kolkata,4/21/2025,League,,Eden Gardens, Kolkata Knight Riders, Gujarat Titans,Unknown,,Unknown,,,,,
+2025,Lucknow,4/22/2025,League,,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick, Lucknow Super Giants, Delhi Capitals,Unknown,,Unknown,,,,,
+2025,Hyderabad,4/23/2025,League,,Rajiv Gandhi International Stadium, Sunrisers Hyderabad, Mumbai Indians,Unknown,,Unknown,,,,,
+2025,Bengaluru,4/24/2025,League,,M Chinnaswamy Stadium, Royal Challengers Bengaluru, Rajasthan Royals,Unknown,,Unknown,,,,,
+2025,Chennai,4/25/2025,League,,MA Chidambaram Stadium, Chennai Super Kings, Sunrisers Hyderabad,Unknown,,Unknown,,,,,
+2025,Kolkata,4/26/2025,League,,Eden Gardens, Kolkata Knight Riders, Punjab Kings,Unknown,,Unknown,,,,,
+2025,Mumbai,4/27/2025,League,,Wankhede Stadium, Mumbai Indians, Lucknow Super Giants,Unknown,,Unknown,,,,,
+2025,Delhi,4/27/2025,League,,Arun Jaitley Stadium, Delhi Capitals, Royal Challengers Bengaluru,Unknown,,Unknown,,,,,
+2025,Jaipur,4/28/2025,League,,Sawai Mansingh Stadium, Rajasthan Royals, Gujarat Titans,Unknown,,Unknown,,,,,
+2025,Delhi,4/29/2025,League,,Arun Jaitley Stadium, Delhi Capitals, Kolkata Knight Riders,Unknown,,Unknown,,,,,
+2025,Chennai,4/30/2025,League,,MA Chidambaram Stadium, Chennai Super Kings, Punjab Kings,Unknown,,Unknown,,,,,
+2025,Jaipur,5/1/2025,League,,Sawai Mansingh Stadium, Rajasthan Royals, Mumbai Indians,Unknown,,Unknown,,,,,
+2025,Ahmedabad,5/2/2025,League,,Narendra Modi Stadium, Gujarat Titans, Sunrisers Hyderabad,Unknown,,Unknown,,,,,
+2025,Bengaluru,5/3/2025,League,,M Chinnaswamy Stadium, Royal Challengers Bengaluru, Chennai Super Kings,Unknown,,Unknown,,,,,
+2025,Kolkata,5/4/2025,League,,Eden Gardens, Kolkata Knight Riders, Rajasthan Royals,Unknown,,Unknown,,,,,
+2025,Dharamsala,5/4/2025,League,,Himachal Pradesh Cricket Association Stadium, Punjab Kings, Lucknow Super Giants,Unknown,,Unknown,,,,,
+2025,Hyderabad,5/5/2025,League,,Rajiv Gandhi International Stadium, Sunrisers Hyderabad, Delhi Capitals,Unknown,,Unknown,,,,,
+2025,Mumbai,5/6/2025,League,,Wankhede Stadium, Mumbai Indians, Gujarat Titans,Unknown,,Unknown,,,,,
+2025,Kolkata,5/7/2025,League,,Eden Gardens, Kolkata Knight Riders, Chennai Super Kings,Unknown,,Unknown,,,,,
+2025,Dharamsala,5/8/2025,League,,Himachal Pradesh Cricket Association Stadium, Punjab Kings, Delhi Capitals,Unknown,,Unknown,,,,,
+2025,Lucknow,5/9/2025,League,,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick, Lucknow Super Giants, Royal Challengers Bengaluru,Unknown,,Unknown,,,,,
+2025,Hyderabad,5/10/2025,League,,Rajiv Gandhi International Stadium, Sunrisers Hyderabad, Kolkata Knight Riders,Unknown,,Unknown,,,,,
+2025,Dharamsala,5/11/2025,League,,Himachal Pradesh Cricket Association Stadium, Punjab Kings, Mumbai Indians,Unknown,,Unknown,,,,,
+2025,Delhi,5/11/2025,League,,Arun Jaitley Stadium, Delhi Capitals, Gujarat Titans,Unknown,,Unknown,,,,,
+2025,Chennai,5/12/2025,League,,MA Chidambaram Stadium, Chennai Super Kings, Rajasthan Royals,Unknown,,Unknown,,,,,
+2025,Bengaluru,5/13/2025,League,,M Chinnaswamy Stadium, Royal Challengers Bengaluru, Sunrisers Hyderabad,Unknown,,Unknown,,,,,
+2025,Ahmedabad,5/14/2025,League,,Narendra Modi Stadium, Gujarat Titans, Lucknow Super Giants,Unknown,,Unknown,,,,,
+2025,Mumbai,5/15/2025,League,,Wankhede Stadium, Mumbai Indians, Delhi Capitals,Unknown,,Unknown,,,,,
+2025,Jaipur,5/16/2025,League,,Sawai Mansingh Stadium, Rajasthan Royals, Punjab Kings,Unknown,,Unknown,,,,,
+2025,Bengaluru,5/17/2025,League,,M Chinnaswamy Stadium, Royal Challengers Bengaluru, Kolkata Knight Riders,Unknown,,Unknown,,,,,
+2025,Ahmedabad,5/18/2025,League,,Narendra Modi Stadium, Gujarat Titans, Chennai Super Kings,Unknown,,Unknown,,,,,
+2025,Lucknow,5/18/2025,League,,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Crick, Lucknow Super Giants, Sunrisers Hyderabad,Unknown,,Unknown,,,,,
+2025,Hyderabad,5/20/2025,Qualifier 1,,Rajiv Gandhi International Stadium,TBD,TBD,Unknown,,Unknown,,,,,
+2025,Hyderabad,5/21/2025,Eliminator,,Rajiv Gandhi International Stadium,TBD,TBD,Unknown,,Unknown,,,,,
+2025,Kolkata,5/23/2025,Qualifier 2,,Eden Gardens,TBD,TBD,Unknown,,Unknown,,,,,
+2025,Kolkata,5/25/2025,Final,,Eden Gardens,TBD,TBD,Unknown,,Unknown,,,,,
